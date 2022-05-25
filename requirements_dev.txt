@@ -118,7 +118,7 @@ pycodestyle==2.6.0
 pycparser==2.20
 pydocstyle==5.0.2
 pyflakes==2.2.0
-pyjwt==1.7.1
+pyjwt==2.4.0
 pylint==2.5.2
 pylint-celery==0.3
 pylint-django==2.0.15
